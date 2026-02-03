@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I’m Seif 👋
 
-<!--
-**seifzogheibi/seifzogheibi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Computer Science student at the University of Leeds with interests in
+systems programming, graphics, data analysis, web development, and applied problem-solving.
 
-Here are some ideas to get you started:
+My repositories include:
+- C++ graphics and rendering projects
+- Systems and networking coursework with Java
+- Python and numerical computing projects
+- Applied AI and data analysis work
+- Web and app design using HTML, CSS, and JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I use GitHub primarily to document technical projects and coursework that
+demonstrate structured problem-solving and implementation skills.
