@@ -1,6 +1,6 @@
 ## Hi, I’m Seif 👋
 
-I’m a Financial Technology student at Imperial College London, with a BSc in Computer Science with Artificial Intelligence from the University of Leeds. 
+I’m an MSc Financial Technology student at Imperial College London, with a BSc in Computer Science with Artificial Intelligence from the University of Leeds. 
 
 I work mostly on machine learning: training and evaluating models, retrieval and
 LLM systems, and the engineering that has to exist around them before any of it
